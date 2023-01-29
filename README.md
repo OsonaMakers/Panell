@@ -68,25 +68,41 @@
 
 6) **Cicle formatiu** Agenda primer trimestre 2023:
     - Xerrades
-      - 01/02/2023 18:00 - Auditori Pau Raba - speakers : PereI/Pep,
-        - TITOL : Que saps sobre DEVOPS? GitLab and Azure DevOps
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep------,TITOL : Internet de les coses. A on passem?
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep------,TITOL : Blazor... un altre framework per desenvolupar webs?
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep------,TITOL : Desenvolupament web : La lluita entre els frontals, les apis i les dades.
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers :          ,TITOL : Gestió de projectes.
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pere?----,TITOL : Que ha passat amb les xarxes locals? WAN, LAN, PAN... Lora/Guifi/OpenWifi
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???------,TITOL : El nùvol a on és? Azure, Google cloud, AWS, Whatson.
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???------,TITOL : Desenvolupament y operacions, dels fonts al producte.
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???------,TITOL : Llenguatges, compiladors i entorns integrats per el desenvolupament d'aplicacions.
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???------,TITOL : WEBS, React? Redux? VUE? Webassembly... i que mes?
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???------,TITOL : DADES, Ja tens el teu DataHub?
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???------,TITOL : TEST, Automatització de proves
+      - 01/02/2023 18:00 - Auditori Pau Raba - speakers : Pere I/ Pep
+        - TITOL : **Que saps sobre DEVOPS? GitLab and Azure DevOps**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
+        - TITOL : **Internet de les coses. A on passem?**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
+        - TITOL : **Blazor... un altre framework per desenvolupar webs?**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
+        - TITOL : **Desenvolupament web : La lluita entre els frontals, les apis i les dades.**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : ???
+        - TITOL : **Gestió de projectes.**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pere
+        - TITOL : **Que ha passat amb les xarxes locals? WAN, LAN, PAN... Lora/Guifi/OpenWifi**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
+        - TITOL : **El nùvol a on és? Azure, Google cloud, AWS, Whatson.**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
+        - TITOL : **Desenvolupament y operacions, dels fonts al producte.**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
+        - TITOL : **Llenguatges, compiladors i entorns integrats per el desenvolupament d'aplicacions.**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
+        - TITOL : **WEBS, React? Redux? VUE? Webassembly... i que mes?**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
+        - TITOL : **DADES, Ja tens el teu DataHub?**
+      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
+        - TITOL : **TEST, Automatització de proves**
     - HOL (Hands on Lab)
-      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Pep----,LAB : Introducció a Arduino, "Hello world"
-      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Sergi--,LAB : IA? o Intel·ligència artificial
-      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Pep----,LAB : Telemetria, connectant els nostres trastos a IoTHub
-      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : ???----,LAB : Git, com funciona? segur que és gratis?
-      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : ???----,LAB : Protocols de comunicacions, WebSockets, MQTT, AMQP, Busos de serveis i notificacions
+      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Pep
+        - LAB : **Introducció a Arduino, "Hello world"**
+      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Sergi
+        - LAB : **IA? o Intel·ligència artificial**
+      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Pep
+        - LAB : **Telemetria, connectant els nostres trastos a IoTHub**
+      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : ???
+        - LAB : **Git, com funciona? segur que és gratis?**
+      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : ???
+        - LAB : **Protocols de comunicacions, WebSockets, MQTT, AMQP, Busos de serveis i notificacions**
       
 7) **Repositoris de codi**
    - publics
@@ -106,6 +122,7 @@
    - Quins tipus de projectes poden encabir en l'àmbit ciutada
    - Tipus de Ajuts/Finançaments
    - Contactes si fem un projecte que involucra “protecció civil” “hospital” o una empresa privada o els bombers, o la policia?
+   - Per nous projectes : Qui ens pot fer encarrecs? Fer difusió de la iniciativa i establir relacions amb...
    
 10) **Feina feta**
     - Creació compte correu per comunicacions : osonamakers@gmail.com
