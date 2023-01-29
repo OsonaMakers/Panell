@@ -55,12 +55,14 @@
      - **Pere II**
    - Desenvolupadors (cloud, arquitectes de programari, escriptors de codi i un gran etc!)
      - **Pere / Pep** ... i tots els que us hi apunteu!
-   - Fabricació
+   - Fabricació "coses"
      - **Guillem**
    - Producció (Eines : Impressores 3D / Talladores / Fresadores / Marcadores)
      - **Jordi**
      - **Pere II**
      - **Eusebi S4A**
+   - Electronica / PCB's
+     - **Xevi** (Pendent de confirmar)
    - Innovation and technical Lead (For.This.FabLab)
      - **Pep**
    - Secretaris / actes / Enquestes / Avaluacions / Espais / Coordinació
