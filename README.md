@@ -1,9 +1,9 @@
-# Panell Central
--------------------------
-Tauler general i Pissarra
--------------------------
-
+# Tauler general i Pissarra
 **  Organització General i Resums setmanals **
+
+
+# 1er TRIMESTRE : LES EINES
+**APRENENTATGE** 
 
 # Grup 1 - Tasques - Documentació : Deserts!
 
@@ -67,7 +67,8 @@ Tauler general i Pissarra
 
 6) **Cicle formatiu** Agenda primer trimestre 2023:
     - Xerrades
-      - 01/02/2023 18:00 - Auditori Pau Raba - speakers : PereI/Pep,TITOL : Que saps sobre DEVOPS? GitLab and Azure DevOps
+      - 01/02/2023 18:00 - Auditori Pau Raba - speakers : PereI/Pep,
+        - TITOL : Que saps sobre DEVOPS? GitLab and Azure DevOps
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep------,TITOL : Internet de les coses. A on passem?
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep------,TITOL : Blazor... un altre framework per desenvolupar webs?
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep------,TITOL : Desenvolupament web : La lluita entre els frontals, les apis i les dades.
@@ -104,3 +105,12 @@ Tauler general i Pissarra
    - Quins tipus de projectes poden encabir en l'àmbit ciutada
    - Tipus de Ajuts/Finançaments
    - Contactes si fem un projecte que involucra “protecció civil” “hospital” o una empresa privada o els bombers, o la policia?
+   
+10) **Feina feta**
+    - Creació compte correu per comunicacions : osonamakers@gmail.com
+    - Creació espai github Osona Makers : https://github.com/OsonaMakers
+    
+11) **Seguents feines**
+    - Crear un repositori privat per cada un dels equips del 25/01/2023, enviar invitacions!    
+    - Crear espais comunitat "Osona Makers" a Hackster.IO
+    - Crear un espai "Agile" a DevOps per poder treballar en equip.
