@@ -42,7 +42,7 @@
 4) **Projectes aprovats** sessió 25/01/2023
    - Alerta ciclistes! i control de places d'aparcament lliures per a minusvàlids
    - Consums domèstics : Farem Caudalimetre... i continuarem amb tot el que faci falta!
-   - Control de la qualitat de l'aire, nivell de contaminació per purins, fuites de gasos tòxics industrials a prop de la ciutat.
+   - Control de la qualitat de l'aire, nivell de contaminació de purins, fuites de gasos tòxics industrials a prop de la ciutat.
 
 5) **Experts/Responsables :**
    - Disseny
@@ -60,6 +60,7 @@
    - Producció (Eines : Impressores 3D / Talladores / Fresadores / Marcadores)
      - **Jordi**
      - **Pere II**
+     - **Eusebi S4A**
    - Innovation and technical Lead (For.This.FabLab)
      - **Pep**
    - Secretaris / actes / Enquestes / Avaluacions / Espais / Coordinació
