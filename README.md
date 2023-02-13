@@ -5,7 +5,9 @@
 # 1er TRIMESTRE : LES EINES
 **APRENENTATGE** 
 
-# Grup 1 - Tasques - Documentació : Deserts!
+# Grup 1 - Tasques - Documentació : 
+
+-	Proposta llançament de coet amb desplegament de paracaigudes. **Marc oTronic**
 
 -	Definició/selecció projecte a partir d'alguna font “Open Source”
 -	Llista de requeriments / materials per necessaris per començar 
@@ -63,6 +65,9 @@
      - **Eusebi S4A**
    - Electronica / PCB's
      - **Xevi** (Pendent de confirmar)
+   - Marketing / Programes de recerca i Innovació
+     - **Merce**
+     - **Marc OTronic** :-)
    - Innovation and technical Lead (For.This.FabLab)
      - **Pep**
    - Secretaris / actes / Enquestes / Avaluacions / Espais / Coordinació
@@ -72,7 +77,7 @@
     - Xerrades
       - 01/02/2023 18:00 - Auditori Pau Raba - speakers : Pere I/ Pep
         - TITOL : **Que saps sobre DEVOPS? GitLab and Azure DevOps**
-      - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
+      - 22/02/2023 18:00 - Auditori Pau Raba - speakers : Pep
         - TITOL : **Internet de les coses. A on passem?**
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
         - TITOL : **Blazor... un altre framework per desenvolupar webs?**
@@ -95,7 +100,7 @@
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
         - TITOL : **TEST, Automatització de proves**
     - HOL (Hands on Lab)
-      - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Pep
+      - 01/03/2023 18:00 - Auditori ........... Conductor : Pep
         - LAB : **Introducció a Arduino, "Hello world"**
       - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Sergi
         - LAB : **IA? o Intel·ligència artificial**
@@ -127,8 +132,11 @@
    - Per nous projectes : Qui ens pot fer encarrecs? Fer difusió de la iniciativa i establir relacions amb...
    
 10) **Feina feta**
-    - Creació compte correu per comunicacions : osonamakers@gmail.com
-    - Creació espai github Osona Makers : https://github.com/OsonaMakers
+    - 01/02/2023 - Creació compte correu per comunicacions : osonamakers@gmail.com
+    - 01/02/2023 - Creació espai github Osona Makers : https://github.com/OsonaMakers
+    - 01/02/2023 - Xerrada : DevOps (Auditori Pau Raba)
+    - 08/02/2023 - Obrim canal a Discord : 
+    - 08/02/2023 - Tutories projectes (Recerca/selecció de materials / definició requeriments / posta en marxa!)
     
 11) **Seguents feines**
     - Crear un repositori privat per cada un dels equips del 25/01/2023, enviar invitacions!    
