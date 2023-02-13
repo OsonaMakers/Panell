@@ -135,7 +135,7 @@
     - 01/02/2023 - Creació compte correu per comunicacions : osonamakers@gmail.com
     - 01/02/2023 - Creació espai github Osona Makers : https://github.com/OsonaMakers
     - 01/02/2023 - Xerrada : DevOps (Auditori Pau Raba)
-    - 08/02/2023 - Obrim canal a Discord : 
+    - 08/02/2023 - Obrim canal a Discord : https://discord.com/channels/1070646195661307914/1072942925966753915
     - 08/02/2023 - Tutories projectes (Recerca/selecció de materials / definició requeriments / posta en marxa!)
     
 11) **Seguents feines**
