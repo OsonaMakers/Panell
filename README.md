@@ -79,6 +79,8 @@
         - TITOL : **Que saps sobre DEVOPS? GitLab and Azure DevOps**
       - 22/02/2023 18:00 - Auditori Pau Raba - speakers : Pep
         - TITOL : **Internet de les coses. A on passem?**
+      - 21/03/2023 18:00 - Auditori Pau Raba - speakers : Pere
+        - TITOL : **Introducció a MQTT : brokers and clients**
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
         - TITOL : **Blazor... un altre framework per desenvolupar webs?**
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
@@ -100,8 +102,12 @@
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : 
         - TITOL : **TEST, Automatització de proves**
     - HOL (Hands on Lab)
-      - 01/03/2023 18:00 - Auditori ........... Conductor : Pep
+      - 15/03/2023 17:00 - Auditori ........... Conductor : Pep
         - LAB : **Introducció a Arduino, "Hello world"**
+      - 15/03/2023 18:00 - Auditori ........... Conductor : Pep
+        - LAB : **Introducció a Nanoframework"**
+      - 15/03/2023 19:00 - Auditori ........... Conductor : Pep
+        - LAB : **Azure IoTHub from Arduino and Nanoframework"**
       - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Sergi
         - LAB : **IA? o Intel·ligència artificial**
       - xx/xx/xxxx xx:xx - Auditori ........... Conductor : Pep
