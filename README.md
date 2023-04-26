@@ -30,16 +30,15 @@
    - Projectes d’àmbit Urbà (Urban  Members)
      - **Pere / Pere II**
 
-2) **Noves idees inspirades a partir de la xerrada**
-   - Aplicació per gestionar dates de caducitat dels aliments que tenim a casa.
-   - Aplicació per controlar el nostre Jardí "Reg intel·ligent".
-   - Fabricació de logos de fusta, mobiliari personalitzat... un futbolí.
-   - Sistema de control de consum energètic.
+3) **Noves idees inspirades a partir de la xerrada biblioteca 18/04/2023**
+   - Fabricació de maquetes.
+   - Practiques amb Drons Plagues "pi processionària".
+   - Turbina generadora de electricitat.
 
 
-3) **Experts/Responsables :**
+4) **Experts/Responsables :**
    - Disseny
-     - **Marta**
+     - **Valentina**
    - Enginyeria Mecànica
      - **Sergi / Ramon**
    - Telecos (Conectivitat/Xarxes)
@@ -66,7 +65,7 @@
    - Secretaris / actes / Enquestes / Avaluacions / Espais / Coordinació
      - **Martí/Núria/Christian/Pep**
 
-4) **Cicle formatiu** Agenda segon trimestre 2023:
+5) **Cicle formatiu** Agenda segon trimestre 2023:
     - Xerrades
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
         - TITOL : **Blazor... un altre framework per desenvolupar webs?**
@@ -98,18 +97,18 @@
       - xx/xx/xxxx xx:xx - Auditori ........... Conductor : ???
         - LAB : **Protocols de comunicacions, WebSockets, MQTT, AMQP, Busos de serveis i notificacions**
       
-5) **Repositoris de codi**
+6) **Repositoris de codi**
    - publics
      - github (aquest que estas llegint)
    - privats
      - git / Azure DevOps (I tindrem els nostres secrets!)
 
-6) **Oferiments i Esponsors**
+7) **Oferiments i Esponsors**
    - Recursos amb material propi dels assistents.
    - Hackter.io, depenen del interès del projecte per la plataforma.
    - AA, ens pot cedir un DRON, un MD5 i altre material si ens fa falta.
 
-7) **Per Explorar** En curs (Reunions amb Urbanisme/Protecció Civil/VIT)
+8) **Per Explorar** En curs (Reunions amb Urbanisme/Protecció Civil/VIT)
    - Normativa vial per poder experimentar amb prototips.
    - Relacions amb Universitat/Ajuntament
    - Pactar/Acordar cost dels fungibles amb el Lab City
@@ -118,13 +117,12 @@
    - Contactes si fem un projecte que involucra “protecció civil” “hospital” o una empresa privada o els bombers, o la policia?
    - Per nous projectes : Qui ens pot fer encàrrecs? Fer difusió de la iniciativa i establir relacions amb...
    
-8) **Feina feta** fins ara!
+9) **Feina feta** fins ara!
     - 01/02/2023 - Creació compte correu per comunicacions : osonamakers@gmail.com
     - 01/02/2023 - Creació espai github Osona Makers : https://github.com/OsonaMakers
     - 01/02/2023 - Xerrada : DevOps (Auditori Pau Raba)
     - 08/02/2023 - Obrim canal a Discord : https://discord.com/channels/1070646195661307914/1072942925966753915
-    - 08/02/2023 - Tutories projectes (Recerca/selecció de materials / definició requeriments / posta en marxa!)
-    
+    - 08/02/2023 - Tutories projectes (Recerca/selecció de materials / definició requeriments / posta en marxa!)   
     - 01/02/2023 18:00 - Auditori Pau Raba - speakers : Pere I/ Pep
       - TITOL : **Que saps sobre DEVOPS? GitLab and Azure DevOps**
     - 22/02/2023 18:00 - Auditori Pau Raba - speakers : Pep
@@ -141,7 +139,13 @@
     - 15/03/2023 19:00 - Auditori ........... Conductor : Pep
       - LAB : **Azure IoTHub from Arduino and Nanoframework"**
 
-9) **Seguents feines**
+10) **Seguents feines**
+    - Treballar infraestructura IT (Implementació de recursos Hibrits)
+    - VIT Espais per disposar d'un petit DataCenter
+    - Material informatic cedit
+    - Proposta presentació Urbanisme
+    - Proposta presentació Protecció Civil.
+    - Negociar assignació material PECT
 
 Reintentar involucrar persones entorn : 
 # Grup ENTUSIASTES (DESERT! Sense Membres!)
