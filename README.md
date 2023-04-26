@@ -60,8 +60,12 @@
      - **Felix**
    - Marketing / Programes de recerca i Innovació
      - **Vols ser-ho tu?**
+   - Mentors
+     - **Jordi B.**
+     - **Eusebi** by Steam4All
+     - **PepLluis*
    - Innovation and technical Lead (For.This.FabLab)
-     - **Pep**
+     - **PepLluis**
    - Secretaris / actes / Enquestes / Avaluacions / Espais / Coordinació
      - **Martí/Núria/Christian/Pep**
 
