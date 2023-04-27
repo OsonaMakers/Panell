@@ -37,7 +37,8 @@
 
 
 4) **Experts/Responsables :**
-   - Disseny
+   - UX/UI & Disseny
+     - **Marta**
      - **Valentina**
    - Enginyeria Mecànica
      - **Sergi / Ramon**
@@ -47,12 +48,11 @@
      - **Pere II**
    - Desenvolupadors (Núvol, arquitectes de programari, escriptors de codi i un gran etc!)
      - **Pere / Pep / Abel / Sergi** ... i tots els que us hi apunteu!
-   - Fabricació "coses"
-     - **Jordi B.**
+   - Fabricació Producció de "coses"     
      - **Joan F.**
-   - Producció (Eines : Impressores 3D / Talladores / Fresadores / Marcadores)
+   - Eines : Impressores 3D / Talladores / Fresadores / Marcadores
      - **Jordi B.**
-     - **Joan F.**
+     - **Eloi**
    - Electronica / PCB's
      - **Jordi B.**
    - Infraestructura / Automatització
@@ -71,6 +71,8 @@
 
 5) **Cicle formatiu** Agenda segon trimestre 2023:
     - Xerrades
+      - 10/05/2023 18:00 - Auditori Pau Raba - speakers : Eloi
+        - TITOL : **Introducció impresores 3D, com organitzar espais compartits**
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
         - TITOL : **Blazor... un altre framework per desenvolupar webs?**
       - xx/xx/xxxx xx:xx - Auditori Pau Raba - speakers : Pep
