@@ -1,8 +1,12 @@
 # Tauler general i Pissarra OSONA MAKERS
 **  Organització General i Resums setmanals **
 
+Propera reunió aprovació de projectes 2024/2025 - Dimecres 16/10/2024
 
-# 2on TRIMESTRE : PRODUCCIÓ
+- Consolidació propostes : Protecció Civil / Urbanisme
+- Creació portal Osona Makers
+
+# 2on/3er/4art TRIMESTRE : PRODUCCIÓ
 ** FABRICACIÓ ** 
 
 # Grups Consolidats
@@ -69,7 +73,7 @@
    - Secretaris / actes / Enquestes / Avaluacions / Espais / Coordinació
      - **Martí/Núria/Christian/Pep**
 
-5) **Cicle formatiu** Agenda segon trimestre 2023:
+5) **Cicle formatiu** Agenda 2023/2024:
     - Xerrades
       - 10/05/2023 18:00 - Auditori Pau Raba - speakers : Eloi
         - TITOL : **Introducció impresores 3D, com organitzar espais compartits**
