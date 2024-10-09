@@ -17,7 +17,7 @@ Propera reunió aprovació de projectes 2024/2025 - Dimecres 16/10/2024
 
 # Grups Consolidats
 
-1) **Projectes en Curs** sessions 17/04/2023
+1) **Projectes en Curs** sessions 2023/2024
    - Mobiliari Urbà
      - Alerta ciclistes.
      - Control de places d'aparcament lliures per a minusvàlids
