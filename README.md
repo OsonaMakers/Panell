@@ -8,6 +8,8 @@ Propera reunió aprovació de projectes 2024/2025 - Dimecres 16/10/2024
 
 ![image](P2425_1.png)
 
+![image](P2425_2.png)
+
 # 2on/3er/4art TRIMESTRE : PRODUCCIÓ
 ** FABRICACIÓ ** 
 
