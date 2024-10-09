@@ -6,11 +6,11 @@ Propera reunió aprovació de projectes 2024/2025 - Dimecres 16/10/2024
 - Consolidació propostes : Protecció Civil / Urbanisme
 - Creació portal Osona Makers
 
-![image](P2425_1.png)
+![image](/images/P2425_1.png)
 
-![image](P2425_2.png)
+![image](/images/P2425_2.png)
 
-![image](P2425_3.png)
+![image](/images/P2425_3.png)
 
 # 2on/3er/4art TRIMESTRE : PRODUCCIÓ
 ** FABRICACIÓ ** 
